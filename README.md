@@ -1,1 +1,1 @@
-# Introduction_to_Cultural_Data_science
+# Introduction to Cultural Data science
